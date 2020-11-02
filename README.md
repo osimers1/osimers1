@@ -1,7 +1,6 @@
-### Hi there 👋
+### Delpire Adrien
 
-<!--
-**osimers1/osimers1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [gifDebut](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.ch%2Fpin%2F608619337124853413%2F&psig=AOvVaw3PwIwgYRTcXgVyCcr4zJac&ust=1604396076801000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiVgKXH4-wCFQAAAAAdAAAAABAI)
 
 Here are some ideas to get you started:
 
