@@ -5,7 +5,10 @@
 ### who i'm ?
 
 
-My name is [Adrien Delpire](https://www.linkedin.com/in/adrien-delpire/) I am 25 years old and I am a junior web developer currently in training at Becode
+My name is [Adrien Delpire](https://www.linkedin.com/in/adrien-delpire/) I am 25 years old.
+I am a junior web developer and electronic technician.
+Passionate about robotics, computers and electronics.
+
 
 ### contact me at my email : adrien.delpire@gmail.com
 
