@@ -7,8 +7,8 @@
 
 My name is [Adrien Delpire](https://www.linkedin.com/in/adrien-delpire/) I am 25 years old.</br>
 I am a junior web developer and electronic technician.</br>
-I studied to becode in 2020.</br>
-Passionate about robotics, computers and electronics.</br>
+I studied to becode in 2020.</br></br>
+Passionate about robotics, computers and electronics.</br></br>
 without further delay I present my skills to you</br>
 </br>
 <h1>my skills :</h1></br>
