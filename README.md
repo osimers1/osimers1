@@ -7,10 +7,18 @@
 
 My name is [Adrien Delpire](https://www.linkedin.com/in/adrien-delpire/) I am 25 years old.</br>
 I am a junior web developer and electronic technician.</br>
+I studied to becode in 2020.</br>
 Passionate about robotics, computers and electronics.</br>
 </br>
 <h1>my skill :</h1></br>
 
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Javascript</li>
+    <li>Odoo (create an applicaion)</li>
+    <li>Python</li>
+</ul>
 
 ### contact me at my email : adrien.delpire@gmail.com
 
