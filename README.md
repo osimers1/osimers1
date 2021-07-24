@@ -9,8 +9,9 @@ My name is [Adrien Delpire](https://www.linkedin.com/in/adrien-delpire/) I am 25
 I am a junior web developer and electronic technician.</br>
 I studied to becode in 2020.</br>
 Passionate about robotics, computers and electronics.</br>
+without further delay I present my skills to you</br>
 </br>
-<h1>my skill :</h1></br>
+<h1>my skills :</h1></br>
 
 <ul>
     <li>HTML</li>
