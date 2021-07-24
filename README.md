@@ -5,7 +5,7 @@
 ### who i'm ?
 
 
-My name is [Adrien Delpire](https://www.linkedin.com/in/adrien-delpire/) I am 25 years old.
+My name is [Adrien Delpire](https://www.linkedin.com/in/adrien-delpire/) I am 25 years old.</br>
 I am a junior web developer and electronic technician.
 Passionate about robotics, computers and electronics.
 
