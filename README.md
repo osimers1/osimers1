@@ -24,6 +24,6 @@ without further delay I present my skills to you</br>
 ### contact me at my email : adrien.delpire@gmail.com
 
 
-<p align="center"><h2>believe in the future</h2></p>
+<h2 align="center">believe in the future</h2>
 
 
